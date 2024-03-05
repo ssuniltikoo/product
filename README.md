@@ -1,5 +1,5 @@
 # PRODUCT SERVICE API
-Product service is product service api to provide details of products and categories
+Product service  api to provide details of products and categories
 
 
 
