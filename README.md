@@ -6,7 +6,7 @@ Product service is product service api to provide details of products and catego
 ## List of Apis endpoints
 
 GET PRODUCT LIST
-''' API
+``` API
 <host-name>/products
 
-'''
+```
